@@ -1,0 +1,12 @@
+p{
+    color: rgb(18, 10, 171);
+    font-size: larger;
+}
+pre{
+    color: palevioletred;
+    font-size: larger;
+    font-weight: bolder;
+}
+body{
+    background-color: aquamarine;
+}
